@@ -1,3 +1,4 @@
+# *Тренировочный проект для работы с Git.*
 - 👋 Hi, I’m @vlad-vlg
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python!
