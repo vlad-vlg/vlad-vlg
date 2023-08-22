@@ -1,10 +1,12 @@
-### 👋 Hi! My name is Vladimir
---------------------------------
+## 👋 Hi! My name is Vladimir
 
-- I’m interested in programming
-- I'm currently learning **Python!**
+- 🌍 I'm based in Russia
+- 🖥️ I’m interested in programming
+- 🧠 I'm currently learning **Python!**
+- 🚀 I'm currently working on [personal projects](https://www.github.com/vlad-vlg)
+- ✉️ You can contact me at:
 
-#### Skills 
+### Skills 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -14,7 +16,7 @@
 <code><img height="30" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></code>
 
-#### Socials 
+### Socials 
 
 <p align="left">
   <a href="https://www.github.com/vlad-vlg" target="_blank" rel="noreferrer">
@@ -27,11 +29,11 @@
   
 <a href="https://www.github.com/vlad-vlg" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/vlad-vlg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-#### My GitHub Stats
+### My GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="http://www.github.com/vlad-vlg"><img src="https://github-readme-stats.vercel.app/api?username=vlad-vlg&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="vlad-vlg's GitHub stats" />
-  </a></p>
- <p align="center">
+  </a>
+
   <a href="http://www.github.com/vlad-vlg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-vlg&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a></p>
