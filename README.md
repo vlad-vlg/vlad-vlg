@@ -36,9 +36,9 @@
 ### My GitHub Stats
 
 <a href="http://www.github.com/vlad-vlg">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vlad-vlg&show_icons=true&hide=issues,contribs&count_private=true&title_color=5FABEE&text_color=718CA1&icon_color=5FABEE&bg_color=deg,000000,27272a&hide_border=true&rank_icon=percentile&card_width=250" alt="vlad-vlg's GitHub stats" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=vlad-vlg&show_icons=true&hide=contribs&count_private=true&title_color=5FABEE&text_color=718CA1&icon_color=5FABEE&bg_color=deg,000000,27272a&hide_border=true&rank_icon=percentile" alt="vlad-vlg's GitHub stats" />
 </a>
 <a href="http://www.github.com/vlad-vlg">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-vlg&stroke=5FABEE&background=27272a&ring=87cefa&fire=0099ff&currStreakNum=5FABEE&currStreakLabel=5FABEE&sideNums=5FABEE&sideLabels=5FABEE&dates=5FABEE&hide_border=true&card_width=250" alt="vlad-vlg's GitHub stats" />
+  <img height=200 width=370 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-vlg&stroke=5FABEE&background=27272a&ring=87cefa&fire=0099ff&currStreakNum=5FABEE&currStreakLabel=5FABEE&sideNums=5FABEE&sideLabels=5FABEE&dates=5FABEE&hide_border=true" alt="vlad-vlg's GitHub stats" />
 </a>
 
