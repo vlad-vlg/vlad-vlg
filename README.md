@@ -35,6 +35,10 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/vlad-vlg" align="left"><img src="https://github-readme-stats.vercel.app/api?username=vlad-vlg&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="vlad-vlg's GitHub stats" width="400" height="300" /></a>
-<a href="http://www.github.com/vlad-vlg" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-vlg&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" height="300" /></a>
+<a href="http://www.github.com/vlad-vlg">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vlad-vlg&show_icons=true&hide=issues,contribs&count_private=true&title_color=5FABEE&text_color=718CA1&icon_color=5FABEE&bg_color=deg,000000,27272a&hide_border=true&rank_icon=percentile&card_width=400" alt="vlad-vlg's GitHub stats" />
+</a>
+<a href="http://www.github.com/vlad-vlg">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-vlg&stroke=5FABEE&background=27272a&ring=718CA1&fire=718CA1&currStreakNum=5FABEE&currStreakLabel=718CA1&sideNums=5FABEE&sideLabels=5FABEE&dates=5FABEE&hide_border=true&card_width=400" alt="vlad-vlg's GitHub stats" />
+</a>
 
