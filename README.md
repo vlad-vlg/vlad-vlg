@@ -5,6 +5,7 @@
 - 🧠 I'm currently learning **Python!**
 - 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
 - ✉️ You can contact me at:
+![ProgrammImage](HW.jpg)
 
 ---
 
