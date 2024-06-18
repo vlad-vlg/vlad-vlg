@@ -6,7 +6,7 @@
   - 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
   - ✉️ You can contact me at:  
 
-<img src="HW.jpg" alt="ProgrammImage" style="width: 400px; height: 300px; position: relative; left: 400px;"/>
+<img src="HW.jpg" alt="ProgrammImage" style="width: 400px; height: 300px; "/>
 
 ---
 
