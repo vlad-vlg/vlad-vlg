@@ -1,11 +1,13 @@
 ## 👋 Hi! My name is Vladimir
 
 <div>
-- 🌍 I'm based in Russia
-- 🖥️ I’m interested in programming
-- 🧠 I'm currently learning **Python!**
-- 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
-- ✉️ You can contact me at:
+<p>
+  - 🌍 I'm based in Russia
+  - 🖥️ I’m interested in programming
+  - 🧠 I'm currently learning **Python!**
+  - 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
+  - ✉️ You can contact me at:
+</p>
 </div>
 <div>
 ![ProgrammImage](HW.jpg)
@@ -29,7 +31,8 @@
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"/></code>
-</div></br>
+</div>  
+
 
  [![](https://www.codewars.com/users/Vlad_e/badges/micro)](https://www.codewars.com/users/Vlad_e)  
  
