@@ -10,7 +10,7 @@
 </p>
 </div>
 <div>
-![ProgrammImage](HW.jpg)
+  <img src="HW.jpg" alt="ProgrammImage" width="400" height="300"/>
 </div>
 
 ---
