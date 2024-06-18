@@ -1,11 +1,15 @@
 ## 👋 Hi! My name is Vladimir
 
+<div>
 - 🌍 I'm based in Russia
 - 🖥️ I’m interested in programming
 - 🧠 I'm currently learning **Python!**
 - 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
 - ✉️ You can contact me at:
+</div>
+<div>
 ![ProgrammImage](HW.jpg)
+</div>
 
 ---
 
