@@ -1,17 +1,12 @@
 ## 👋 Hi! My name is Vladimir
 
-<div>
-<p>
   - 🌍 I'm based in Russia
   - 🖥️ I’m interested in programming
   - 🧠 I'm currently learning **Python!**
   - 🚀 I'm currently working on [personal projects](https://github.com/vlad-vlg?tab=repositories)
-  - ✉️ You can contact me at:
-</p>
-</div>
-<div>
-  <img src="HW.jpg" alt="ProgrammImage" width="400" height="300"/>
-</div>
+  - ✉️ You can contact me at:  
+
+<img src="HW.jpg" alt="ProgrammImage" style="width: 400px; height: 300px; position: relative; left: 400px;"/>
 
 ---
 
@@ -23,8 +18,8 @@
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/></code>
-  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></code>
-  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/></code>
   <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/></code>
